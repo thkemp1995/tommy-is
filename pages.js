@@ -95,6 +95,6 @@ document.addEventListener('keyup', function(event) {
 
   //if key being pressed is ArrowLeft
   if (event.key == 'ArrowLeft') {
-    prev()
+    previous()
   }
 })
